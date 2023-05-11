@@ -28,7 +28,7 @@ This template ships with the main React and Storybook configuration files you'll
     cd storybook-tutorial-code/
 
     # Install the dependencies
-    yarn
+    npm i
     ```
 
 1.  **Browse your stories!**
